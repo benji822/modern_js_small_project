@@ -90,7 +90,6 @@ class Store {
         });
 
         localStorage.setItem("books", JSON.stringify(books));
-        // console.log(book);
     }
 }
 
